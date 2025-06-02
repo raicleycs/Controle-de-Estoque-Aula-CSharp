@@ -85,4 +85,3 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para
 
 ## ✨ Autor
 Desenvolvido por @raicleycs.
-- Sinta-se à vontade para contribuir ou entrar em contato para melhorias! 
